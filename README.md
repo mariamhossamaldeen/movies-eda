@@ -11,11 +11,11 @@
 ##  Key Insights
 Finding 
 ------------
- High budget ≠ guaranteed profit |
- Most films rated between 5–7 |
- Top genres: Drama, Comedy, Action |
- Documentary & Drama get the highest ratings |
- ROI is linked to revenue, not budget |
+ High budget ≠ guaranteed profit 
+ Most films rated between 5–7 
+ Top genres: Drama, Comedy, Action 
+ Documentary & Drama get the highest ratings 
+ ROI is linked to revenue, not budget 
 
 ---
 
